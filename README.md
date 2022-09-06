@@ -1,19 +1,19 @@
 # 💻 Workstation and GitHub Setup
 
-## 🤓 Course overview and learning outcomes 
+## 🤓 Assignment Goals
 
-The goal of this assignment is to get your MacBook setup to write and run Python code and to give you a brief introduction to GitHub which we will be using to submit projects and assignments. 🚀
+The goal of this assignment is to (1) get your MacBook setup to write and run Python code and (2) to give you a brief introduction to GitHub which we will be using to submit projects and assignments. 🚀
 
 ## Python
 
-For the first half of the year, your work for this class will be written in Python.  We've chosen Python because you are already familiar with it. Instead of focusing on learning a new language, you will focus on deepening your knowledge of programming strategies and algorithms.
+For at least the first half of the year, your work for this class will be written in Python.  We've chosen Python because you are already familiar with it. Instead of focusing on learning a new language, you will focus on deepening your knowledge of programming strategies and algorithms.  Unlike Computer Science 1, you will be writing code on your computer rather than in an online editor.
 
 - [ ] Install the latest stable release of Python by clicking on this link and following the installer instructions: https://www.python.org/ftp/python/3.10.6/python-3.10.6-macos11.pkg
 
 On Mac OS X, the default version of Python is Python 2.  Since Python 2 is soon to be deprecated, you will likely never need to run Python 2 (unless you are working on some old code).  We will use Python 3 for everything in this class.  Follow the instructions below to change your system's default to Python 3.
 
 - [ ] Open a new Terminal
-- [ ] Type the following into the command line to open the file `.zshrc` in TextEditor:
+- [ ] Type the following into the command line to open the file `.zshrc` in TextEditor[^1]:
     ```
     open -e ~/.zshrc
     ```
@@ -29,6 +29,7 @@ On Mac OS X, the default version of Python is Python 2.  Since Python 2 is soon 
     ```
     You should see `Python 3.10.6`.
 
+[^1]: What is `.zshrc`?  It is a script that is run whenever you open a new Terminal window.  You just told it to run python3 instead of python2 whenever you type python on a command line.
 
 ## Visual Studio Code
 
