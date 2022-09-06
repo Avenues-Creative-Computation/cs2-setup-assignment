@@ -8,7 +8,7 @@ The goal of this assignment is to (1) get your MacBook setup to write and run Py
 
 For at least the first half of the year, your work for this class will be written in Python.  We've chosen Python because you are already familiar with it. Instead of focusing on learning a new language, you will focus on deepening your knowledge of programming strategies and algorithms.  Unlike Computer Science 1, you will be writing code on your computer rather than in an online editor.
 
-- [ ] Install the latest stable release of Python by clicking on this link and following the installer instructions: https://www.python.org/ftp/python/3.10.6/python-3.10.6-macos11.pkg
+- [ ] Install the latest stable release of Python by clicking on this link and following the installer instructions: <a href="https://www.python.org/ftp/python/3.10.6/python-3.10.6-macos11.pkg" target="_blank">https://www.python.org/ftp/python/3.10.6/python-3.10.6-macos11.pkg</a>
 
 On Mac OS X, the default version of Python is Python 2.  Since Python 2 is soon to be deprecated, you will likely never need to run Python 2 (unless you are working on some old code).  We will use Python 3 for everything in this class.  Follow the instructions below to change your system's default to Python 3.
 
@@ -33,7 +33,7 @@ On Mac OS X, the default version of Python is Python 2.  Since Python 2 is soon 
 
 ## Visual Studio Code
 
-We will use [Visual Studio Code (VSCode)](https://code.visualstudio.com/){:target="_blank"} as our IDE (interactive coding environment).  VSCode has a built-in terminal, debugging tools, and extensions that make completing and submitting your assignments easy.
+We will use <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code (VSCode)</a> as our IDE (interactive coding environment).  VSCode has a built-in terminal, debugging tools, and extensions that make completing and submitting your assignments easy.
 
 - [ ] **Download and install Visual Studio Code from Self-Service**
 
@@ -69,7 +69,7 @@ When a repository is created with GitHub, it’s stored remotely in the ☁️. 
 
 **:books: When you start a project or assignment for class you will use GitHib Classroom to clone a template repository that contains instructions and all of the files needed for the project.**
 
-To learn more about cloning, read ["Cloning a Repository"](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository){:target="_blank"}. 
+To learn more about cloning, read <a href="https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/" target="_blank">Cloning a Repository</a>. 
 
 ### Committing and pushing
 **Committing** and **pushing** are how you can add the changes you made on your local machine to the remote repository in GitHub. That way your instructor and/or teammates can see your latest work when you’re ready to share it. You can make a commit when you have made changes to your project that you want to “checkpoint.” You can also add a helpful **commit message** to remind yourself or your teammates what work you did (e.g. “Added a README with information about our project”).
@@ -81,8 +81,8 @@ Once you have a commit or multiple commits that you’re ready to add to your re
 
 ## Setup your GitHib and GitHub Classroom account
 
-- [ ] You will need a GitHib account associated with your Avenues Gmail account for this class.  Go to [github.com](https://github.com){:target="_blank"} and click `Sign up`.  Enter your Avenues Gmail address, then follow the on-screen instructions to finish setting up your account.
-- [ ] Link your GitHub account to GitHub Classroom by following this link: https://classroom.github.com/a/RyX7DTSH]{:target="_blank"} and selecting your name from the class roster.
+- [ ] You will need a GitHib account associated with your Avenues Gmail account for this class.  Go to <a href="https://github.com" target="_blank">github.com</a> and click `Sign up`.  Enter your Avenues Gmail address, then follow the on-screen instructions to finish setting up your account.
+- [ ] Link your GitHub account to GitHub Classroom by following this link: <a href="https://classroom.github.com/a/RyX7DTSH" target="_blank">https://classroom.github.com/a/RyX7DTSH</a> and selecting your name from the class roster.
 - [ ] In Visual Studio Code, click on the GitHub tab :octocat: in the sidebar.
 - [ ] Under `CLASSROOMS` click `Sign In` and follow the on-screen instructions.
 - [ ] You should see this assignment appear under the `CLASSROOMS` menu.  Click the folder icon to the right of the assignment to clone the assignment repository to your computer and open the repository folder in Visual Studio Code.
@@ -164,8 +164,8 @@ Note, if you are not ready to submit your assignment or project but you want to 
 
 
 ## 📚  Resources 
-* [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be){:target="_blank"}
-* [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources){:target="_blank"}
-* [Understanding the GitHub flow](https://guides.github.com/introduction/flow/){:target="_blank"}
-* [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class){:target="_blank"}
+* [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be)
+* [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources)
+* [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
+* [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
 
