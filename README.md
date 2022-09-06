@@ -157,8 +157,9 @@ You will submit assignments by **committing and pushing** your work to GitHub.
 - [ ] In Visual Studio, click on the Source Control tab on the sidebar.  You will see a place to enter a message and a list of the changes you have made since cloning the repository or since your last commit.
 - [ ] Next to your file `add2.py` click the `+` button to "stage" the changes in that file.
 - [ ] In the message box, type `Completed assignment`
-- [ ] Press the `Commit` button.  Your changes are now saved in the version history on your computer, but have **NOT** been pushed to GitHub.
-- [ ] Click on the `•••` menu at the top of the source control sidebar.  Select `Pull, Push` then `Push`.  This will upload your committed changes to the remote GitHub repository and notify me that you have submitted the assignment.  You can also **push** from the command palette by pressing `command+shift+p`, typing `push`, then selecting `Git: Push`.
+- [ ] Click the dropdown menu next to the `Commit` button and select `Commit & Push`.  Your changes are now saved in the version history on your computer, and have been pushed to GitHub.
+
+Note, if you are not ready to submit your assignment or project but you want to save your progress in the version history on your computer, *a very good practice*, you can press `Commit` without pushing.  But note that you must **push** your changes to GitHub for me to see your work.
 
 
 ## 📚  Resources 
