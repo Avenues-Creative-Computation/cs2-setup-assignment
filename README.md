@@ -47,7 +47,7 @@ Open VSCode and click on the extensions tab on the far left of your screen. Use 
 Once you have installed these extensions, quit Visual Studio Code and relaunch the app.
 
 
-## :octocat: Git and GitHub
+## :octocat: Git, GitHub, and GitHub Classroom
 
 Git is a **distributed Version Control System (VCS)**, which means it is a useful tool for easily tracking changes to your code, collaborating, and sharing. With Git you can track the changes you make to your project so you always have a record of what you’ve worked on and can easily revert back to an older version if need be (like Version History in Google Docs). It also makes working with others easier—groups of people can work together on the same project and merge their changes into one final source!
 
@@ -76,7 +76,7 @@ To learn more about cloning, read <a href="https://docs.github.com/en/github/cre
 
 Once you have a commit or multiple commits that you’re ready to add to your repository, you can use the push command to add those changes to your remote repository. Committing and pushing may feel new at first, but we promise you’ll get used to it 🙂
 
-**:books: When you are ready to submit an assignment or project you will commit and push your work to the GitHub repository.  GitHib classroom will notify me of your submission as well as tell us both whether your code has passed any tests I might setup for the assignment.**
+**:books: When you are ready to submit an assignment or project you will commit and push your work to the GitHub repository that GitHub Classroom created in your GitHub account.  GitHib classroom will notify me of your submission as well as tell us both whether your code has passed any tests I might setup for the assignment.**
 
 
 ## Setup your GitHib and GitHub Classroom account
@@ -85,7 +85,7 @@ Once you have a commit or multiple commits that you’re ready to add to your re
 - [ ] Link your GitHub account to GitHub Classroom by following this link: <a href="https://classroom.github.com/a/RyX7DTSH" target="_blank">https://classroom.github.com/a/RyX7DTSH</a> and selecting your name from the class roster.
 - [ ] In Visual Studio Code, click on the GitHub tab :octocat: in the sidebar.
 - [ ] Under `CLASSROOMS` click `Sign In` and follow the on-screen instructions.
-- [ ] You should see this assignment appear under the `CLASSROOMS` menu.  Click the folder icon to the right of the assignment to clone the assignment repository to your computer and open the repository folder in Visual Studio Code.
+- [ ] You should see this assignment appear under the `CLASSROOMS` menu.  Click the folder icon to the right of the assignment to clone the assignment repository to your computer and open the repository folder in Visual Studio Code.  `README.md`, the file that you are currently reading, is the only file in the repository so far.  You will add a file to the repository in the next section.
 
 **Now you are ready to write some code!**
 
