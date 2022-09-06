@@ -110,8 +110,8 @@ Jupyter Notebooks are interactive notebooks designed for sharing computational d
 - [ ] Open the command pallet in Visual Studio Code by pressing `command+shift+p`.
 - [ ] Type `Jupyter` into the search bar.
 - [ ] Select `Create: New Jupyter Notebook`
-- [ ] Save the Notebook as `test_jupyter.ipynb`
-- [ ] You will see a single "cell" where you can type some code and run it independently of the rest of cells in the notebook.  Try it.  Paste the following code into the notebook cell.
+- [ ] Save the new file as `test_jupyter.ipynb`
+- [ ] You will see a single "cell" where you can type some code and run it independently of the rest of cells in the notebook.  Try it.  Paste the following code into the notebook cell.  Then click the run button to the left of the cell.
 
     ```
     odds = [i for i in range(0,25) if i % 2 != 0]
@@ -119,7 +119,14 @@ Jupyter Notebooks are interactive notebooks designed for sharing computational d
     for number in odds:
         print(number + 1, end=' ')
     ```
-- [ ] You can create a new code cell by clicking the `+ Code` button at the top of the screen.  
+
+- [ ] You can create a new code cell by clicking the `+ Code` button at the top of the screen.  Add this code to a new cell and execute it:
+    
+    ```
+    print('Does this cell remember variables from the cells above?')
+    print(odds)
+    print('Yup')
+    ```
 
 I ofter use a Jupyter Notebook like a piece of scratch paper when I want to test out little bits of code before I include them in a larger project.
 
@@ -149,21 +156,21 @@ Visual Studio Code also provides you with a debugging interface.
 - [ ] With your `add.py` file open, hover your mouse to the left of line 4 (the second `print` statement).
 - [ ] Click on the red dot that appears to add a **breakpoint**.
 - [ ] Click the dropdown next to the run button and select `Debug Python File`.  
-This will run your code, but before executing the last `print` the program will pause and the sidebar will show you the current value of each variable.  Clever debugging can be a huge help when trying to hunt down errors in your code.
+This will run your code, but before executing the last `print`, the program will pause and the sidebar will show you the current value of each variable.  Clever debugging can be a huge help when trying to hunt down errors in your code.
 - [ ] Click the blue `Continue` button on the debug toolbar at the top of the screen to continue execution.  You can also stop or restart execution using the other tools on the debug toolbar.
 
 ## Submitting Projects and Assignments
 You will submit assignments by **committing and pushing** your work to GitHub.
 
 - [ ] In Visual Studio, click on the Source Control tab on the sidebar.  You will see a place to enter a message and a list of the changes you have made since cloning the repository or since your last commit.
-- [ ] Next to your file `add2.py` click the `+` button to "stage" the changes in that file.
-- [ ] In the message box, type `Completed assignment`
+- [ ] Next to your files `add2.py` and `test_jupyter.ipynb` click the `+` button to "stage" the changes in those file.  Alternatively, you can click on the `+` next to `Changes` to stage the changes in all of the files listed.
+- [ ] In the message box, type `Completed Jupyter notebook and add2 program`
 - [ ] Click the dropdown menu next to the `Commit` button and select `Commit & Push`.  Your changes are now saved in the version history on your computer, and have been pushed to GitHub.
 
-Note, if you are not ready to submit your assignment or project but you want to save your progress in the version history on your computer, *a very good practice*, you can press `Commit` without pushing.  But note that you must **push** your changes to GitHub for me to see your work.
+Note, if you are not ready to submit your assignment or project but you want to save your progress in the version history on your computer, you can press `Commit` without pushing.  But note that you must **push** your changes to GitHub for me to see your work.
 
 
-## 📚  Resources 
+## 📚  More Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be)
 * [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources)
 * [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
