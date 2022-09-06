@@ -33,7 +33,7 @@ On Mac OS X, the default version of Python is Python 2.  Since Python 2 is soon 
 
 ## Visual Studio Code
 
-We will use [Visual Studio Code (VSCode)](https://code.visualstudio.com/) as our IDE (interactive coding environment).  VSCode has a built-in terminal, debugging tools, and extensions that make completing and submitting your assignments easy.
+We will use [Visual Studio Code (VSCode)](https://code.visualstudio.com/){:target="_blank"} as our IDE (interactive coding environment).  VSCode has a built-in terminal, debugging tools, and extensions that make completing and submitting your assignments easy.
 
 - [ ] **Download and install Visual Studio Code from Self-Service**
 
@@ -69,7 +69,7 @@ When a repository is created with GitHub, it’s stored remotely in the ☁️. 
 
 **:books: When you start a project or assignment for class you will use GitHib Classroom to clone a template repository that contains instructions and all of the files needed for the project.**
 
-To learn more about cloning, read ["Cloning a Repository"](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository). 
+To learn more about cloning, read ["Cloning a Repository"](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository){:target="_blank"}. 
 
 ### Committing and pushing
 **Committing** and **pushing** are how you can add the changes you made on your local machine to the remote repository in GitHub. That way your instructor and/or teammates can see your latest work when you’re ready to share it. You can make a commit when you have made changes to your project that you want to “checkpoint.” You can also add a helpful **commit message** to remind yourself or your teammates what work you did (e.g. “Added a README with information about our project”).
@@ -81,8 +81,8 @@ Once you have a commit or multiple commits that you’re ready to add to your re
 
 ## Setup your GitHib and GitHub Classroom account
 
-- [ ] You will need a GitHib account associated with your Avenues Gmail account for this class.  Go to [github.com](https://github.com) and click `Sign up`.  Enter your Avenues Gmail address, then follow the on-screen instructions to finish setting up your account.
-- [ ] Link your GitHub account to GitHub Classroom by following this link: https://classroom.github.com/a/RyX7DTSH and selecting your name from the class roster.
+- [ ] You will need a GitHib account associated with your Avenues Gmail account for this class.  Go to [github.com](https://github.com){:target="_blank"} and click `Sign up`.  Enter your Avenues Gmail address, then follow the on-screen instructions to finish setting up your account.
+- [ ] Link your GitHub account to GitHub Classroom by following this link: https://classroom.github.com/a/RyX7DTSH]{:target="_blank"} and selecting your name from the class roster.
 - [ ] In Visual Studio Code, click on the GitHub tab :octocat: in the sidebar.
 - [ ] Under `CLASSROOMS` click `Sign In` and follow the on-screen instructions.
 - [ ] You should see this assignment appear under the `CLASSROOMS` menu.  Click the folder icon to the right of the assignment to clone the assignment repository to your computer and open the repository folder in Visual Studio Code.
@@ -164,8 +164,8 @@ Note, if you are not ready to submit your assignment or project but you want to 
 
 
 ## 📚  Resources 
-* [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
-* [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
-* [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-* [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
+* [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be){:target="_blank"}
+* [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources){:target="_blank"}
+* [Understanding the GitHub flow](https://guides.github.com/introduction/flow/){:target="_blank"}
+* [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class){:target="_blank"}
 
