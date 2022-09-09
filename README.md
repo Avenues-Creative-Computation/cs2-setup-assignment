@@ -13,8 +13,9 @@ For at least the first half of the year, your work for this class will be writte
 On Mac OS X, the default version of Python is Python 2.  Since Python 2 is soon to be deprecated, you will likely never need to run Python 2 (unless you are working on some old code).  We will use Python 3 for everything in this class.  Follow the instructions below to change your system's default to Python 3.
 
 - [ ] Open a new Terminal
-- [ ] Type the following into the command line to open the file `.zshrc` in TextEditor[^1]:
+- [ ] Type the following into the command line to create and open the file `.zshrc` in TextEditor[^1]:
     ```
+    touch ~/.zshrc
     open -e ~/.zshrc
     ```
 - [ ] Add the following line to the bottom of the `.zshrc` file.
